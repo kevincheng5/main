@@ -1,0 +1,3 @@
+[submodule "sub/subkevin"]
+	path = sub/subkevin
+	url = https://github.com/kevincheng5/sub.git
